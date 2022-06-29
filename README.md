@@ -10,9 +10,9 @@ Settings are stored in `File > Preferences > Keyboard Shortcuts`
 Keybinding are stored in `File > Preferences > Settings`.
 
 Rebind these:
-* `copyLinesDownAction` rebind to `ctrl+d` - simple selected lines duplication keybind
-* `editor.action.startFindReplaceAction` rebind to `ctrl+r` - simple replace kebind
-* `workbench.action.findInFiles`, `actions.find` - unbind them and bind these instead `workbench.action.replaceInFiles` to `ctrl+shift+f` and `editor.action.startFindReplaceAction` to `ctrl+f`. Finding is just a subset of replacing.
+* `copyLinesDownAction` rebind to `ctrl+d` - selected lines duplication
+* `editor.action.startFindReplaceAction` rebind to `ctrl+r` - replace
+* `editor.action.deleteLines` rebind to `ctrl+shift+d` - delete line
 
 ## Tips
 Default keybindings cheat sheet from [VSCode get started](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#vscode):
